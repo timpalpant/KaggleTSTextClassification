@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/4.8.3_1/bin/gcc-4.8 fast_solution_v3.c -O3 -o fast_solution -fopenmp -lm
